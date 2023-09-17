@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DommuLeninchandra
-- 👀 I’m interested in Backend Developer
-- 🌱 I’m currently learning Full Stack Java Development course 
+- 👀 I’m data engineer 
+- 🌱 I’m currently learning Azure data engineering program
 - 📫 How to reach me Sailenin45112@gmail.com
 
 <!---
